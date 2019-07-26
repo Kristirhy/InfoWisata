@@ -1,0 +1,14 @@
+{
+    "name": "Wisata",
+    "alias": "wisata",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Wisata\\Providers\\WisataServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

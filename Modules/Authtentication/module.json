@@ -1,0 +1,14 @@
+{
+    "name": "Authtentication",
+    "alias": "authtentication",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Authtentication\\Providers\\AuthtenticationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
