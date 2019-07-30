@@ -110,6 +110,7 @@
 							<!-- <div id="introslide-2" class="tgs-slide"></div> -->
 							<div class="intro-content text-center">
 								<h1 class="wow fadeInUp" data-wow-delay="1s">Info Wisata Jogja</h1>
+                <p class="wow fadeInUp" data-wow-delay="1s">Untuk mendapatkan aplikasi Info Wisata Jogja klik<a href="https://drive.google.com/file/d/1B993cEaFyluTZucO305yjAJ_3PNWZHym/view?usp=sharing" target="_blank">unduh</a></p>
 							</div>
 						</li>
 						
